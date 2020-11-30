@@ -32,6 +32,7 @@ The following files contain the work
  <li> <a href="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/CatBoost.ipynb">Data cleaning and machine learning</li>
   
  </ol>
+ <p> The ML models were interpreted using the SHapley Additive exPlanations(SHAP) values.<a href"https://christophm.github.io/interpretable-ml-book/shap.html"> More can be learned about them by going to the following link.</a></p>
 
 </body>
 </html>
