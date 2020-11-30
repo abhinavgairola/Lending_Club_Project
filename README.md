@@ -37,7 +37,7 @@
  <h1>References</h1>
  <ol>
  <li><cite><a href="https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9">The Search for Categorical Correlation</cite> by Shaked Zychlinski
-.</li>
+  .</a></li>
  </ol>
 
 
