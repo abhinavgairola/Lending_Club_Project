@@ -23,8 +23,12 @@
 </ol>
 
 </p>
-<p>The file here has the EDA and some data cleaning. Since the visualizations are mostly done on plotly and it is difficult to render them correctly on github-- so the link below will open it as an html page. 
- <a href="https://abhinavgairola.github.io/Lending_Club_Project/"> Link to EDA notebook (rendered as html webpage)</a></p>
+The following files contain the work
+<ol>
+ <li>
+<p> EDA with some parts of data cleaning in a separate file. Since the visualizations are mostly done on plotly and it is difficult to render them correctly on github-- so this link will open it as an html page. 
+ <a href="https://abhinavgairola.github.io/Lending_Club_Project/"> Link to EDA notebook (rendered as html webpage)</a></p></li>
+ </ol>
 
 </body>
 </html>
