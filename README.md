@@ -4,7 +4,7 @@
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
  <p align="left">
- <img src="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/Word_Cloud.png" width="550" title="Word cloud image of lending club loan descriptors">
+ <img src="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/Word_Cloud.png" width="550" height="550" title="Word cloud image of lending club loan descriptors">
  </p>
  <h2> This project is a part of the <a href= "https://www.springboard.com/">Springboard's </a> 6 months long immersive program in data science. The project is about classifiying the credit default using the <a href= "https://www.lendingclub.com/"> Lending club </a> data and to understand which factors contributes towards it the most.</h2> 
  <p> Project status--About to be completed.</p>
