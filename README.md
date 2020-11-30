@@ -1,6 +1,8 @@
  # Project Name
  ### Credit default prediction using lending club data.
- ![alt text](https://github.com/abhinavgairola/Lending_Club_Project/blob/master/Word_Cloud.png?raw=true)
+ <p align="center">
+ <img src="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/Word_Cloud.png" width="350" title="hover text">
+ </p>
 ### This project is a part of the [Sprigboard's] (https://www.springboard.com/) 6 months long immersive program in data science. The project is about classifiying the credit default using the [lending club] (https://www.lendingclub.com/) data and to understand which factors contributes towards it the most. 
 ## Project status--About to be completed.
 ## Project Intro/Objective
