@@ -1,6 +1,6 @@
  <!DOCTYPE html>
 <html>
- <h2>Project Name</h2>
+ <h1>Project Name</h1>
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
  <p align="left">
