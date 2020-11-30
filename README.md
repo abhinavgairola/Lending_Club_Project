@@ -10,7 +10,7 @@
  </p>-->
  </p>
  <h2> This project is a part of the <a href= "https://www.springboard.com/">Springboard's </a> 6 months long immersive program in data science. The project is about classifiying the credit default using the <a href= "https://www.lendingclub.com/"> Lending club </a> data and to understand which factors contributes towards it the most.</h2> 
- <p> Project status--About to be completed.</p>
+ <p> Project status U+2705--About to be completed.</p>
  <h2>Project Intro/Objective</h2>
 <p>Lending Club is a money borrowing service that is in the business of providing loans for both personal and business purposes. The data they have collected contains 150 features and more than 2 million elements per feature. This is dense data and provides a unique opportunity of understanding if a lender is going to do default in the future or not? If one can come up with a simple model of classifying a future defaulter then it can greatly hedge the risk of the lender. This hedging of the risk with a simple and explanable model is the principal aim of this project. </p>
 <h2>The following technologies were used while working on this project</h2>
