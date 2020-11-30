@@ -10,6 +10,14 @@
  <p> Project status--About to be completed.</p>
  <h2>Project Intro/Objective</h2>
 <p>Lending Club is a money borrowing service that is in the business of providing loans for both personal and business purposes. The data they have collected contains 150 features and more than 2 million elements per feature. This is dense data and provides a unique opportunity of understanding if a lender is going to do default in the future or not? If one can come up with a simple model of classifying a future defaulter then it can greatly hedge the risk of the lender. This hedging of the risk with a simple and explanable model is the principal aim of this project. </p>
+<h2>The following technologies were used while working on this project</h2>
+ <p><ol>
+ <li><a href="https://www.python.org"> Python </a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+</p>
 <p>The file here has the EDA and some data cleaning. Since the visualizations are mostly done on plotly and it is difficult to render them correctly on github-- so the link below will open it as an html page. 
  <a href="https://abhinavgairola.github.io/Lending_Club_Project/"> Link to EDA notebook (rendered as html webpage)</a></p>
 
