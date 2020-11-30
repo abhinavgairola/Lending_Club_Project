@@ -25,7 +25,7 @@
 </ol>
 
 </p>
-<h2>The following files and folders contain the work</h2>
+<h2>The files and folders which contain the work</h2>
 <ol>
  <li>
 <p> EDA with some parts of data cleaning in a separate file. Since the visualizations are mostly done on plotly and it is difficult to render them correctly on github-- so this link will open it as an html page. 
