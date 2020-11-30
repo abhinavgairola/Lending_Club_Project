@@ -16,8 +16,7 @@
  <li> in <a href="https://jupyter.org"> Jupyter</a></li>
  <li> and in <a href="https://colab.research.google.com">Google colab</a></li>
   <li> Visualization done on plotly<a href="https://plotly.com"> plotly </li>
-   <li> <a href="https://pycaret.org">Pycaret</a> and <a href="https://scikit-learn.org/stable/"> scikit-learn</li>
-  <li></li>
+   <li> <a href="https://pycaret.org">Pycaret</a> and <a href="https://scikit-learn.org/stable/"> scikit-learn</a></li>
 </ol>
 
 </p>
