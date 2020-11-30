@@ -1,4 +1,5 @@
  # Project Name
+ ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.png?raw=true)
 ### This project is a part of the [Sprigboard's] (https://www.springboard.com/) 6 months long immersive program in data science. The project is about classifiying the credit default using the [lending club] (https://www.lendingclub.com/) data and to understand which factors contributes towards it the most. 
 ## Project status--About to be completed.
 ## Project Intro/Objective
