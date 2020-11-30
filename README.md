@@ -1,5 +1,5 @@
  # Project Name
- <img src="Word_Cloud_2.jpg" width = 200, height = 190>
+ <img src="Word_Cloud_2.png" width = 200, height = 190>
 ### This project is a part of the [Sprigboard's] (https://www.springboard.com/) 6 months long immersive program in data science. The project is about classifiying the credit default using the [lending club] (https://www.lendingclub.com/) data and to understand which factors contributes towards it the most. 
 ## Project status--About to be completed.
 ## Project Intro/Objective
