@@ -38,6 +38,8 @@
  <ol>
  <li><cite><a href="https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9">The Search for Categorical Correlation</a></cite> by Shaked Zychlinski
   .</li>
+ <li><cite><a href="https://maxhalford.github.io/blog/target-encoding/">Target encoding done the right way</a></cite> by Max Halford
+  .</li>
  </ol>
 
 
