@@ -12,9 +12,12 @@
 <p>Lending Club is a money borrowing service that is in the business of providing loans for both personal and business purposes. The data they have collected contains 150 features and more than 2 million elements per feature. This is dense data and provides a unique opportunity of understanding if a lender is going to do default in the future or not? If one can come up with a simple model of classifying a future defaulter then it can greatly hedge the risk of the lender. This hedging of the risk with a simple and explanable model is the principal aim of this project. </p>
 <h2>The following technologies were used while working on this project</h2>
  <p><ol>
- <li><a href="https://www.python.org"> Python </a></li>
-  <li>Tea</li>
-  <li>Milk</li>
+ <li>Coded extensively in <a href="https://www.python.org"> Python </a></li>
+ <li> in <a href="https://jupyter.org"> Jupyter</a></li>
+ <li> and in <a href="https://colab.research.google.com">Google colab</a></li>
+  <li> Visualization done on plotly<a href="https://plotly.com"> plotly </li>
+   <li> <a href="https://pycaret.org">Pycaret</a> and <a href="https://scikit-learn.org/stable/"> scikit-learn</li>
+  <li></li>
 </ol>
 
 </p>
