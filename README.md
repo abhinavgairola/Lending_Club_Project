@@ -18,7 +18,7 @@
  <li>Coded extensively in <a href="https://www.python.org"> Python </a></li>
  <li> on <a href="https://jupyter.org"> Jupyter</a></li>
  <li> and in <a href="https://colab.research.google.com">Google colab</a></li>
-  <li> Visualization done on plotly<a href="https://plotly.com"> plotly </li>
+  <li> Visualization done on <a href="https://plotly.com"> plotly </li>
    <li> Machine learning on <a href="https://pycaret.org">Pycaret</a> and <a href="https://scikit-learn.org/stable/"> scikit-learn</a></li>
 </ol>
 
