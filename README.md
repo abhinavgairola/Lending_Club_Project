@@ -33,7 +33,7 @@
  <li> <a href="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/CatBoost.ipynb">Data cleaning and machine learning</a></li>
   
  </ol>
- <p> The ML models were interpreted using the SHapley Additive exPlanations(SHAP) values.<a href"https://christophm.github.io/interpretable-ml-book/shap.html"> More can be learned about them by going to the mentioned link.</a></p>
+ <p> The ML models were interpreted using the SHapley Additive exPlanations(SHAP) values.<a href="https://christophm.github.io/interpretable-ml-book/shap.html"> More can be learned about them by going to the mentioned link.</a></p>
  <h1>References</h1>
  <ol>
  <li><cite><a href="https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9">The Search for Categorical Correlation</a></cite> by Shaked Zychlinski
