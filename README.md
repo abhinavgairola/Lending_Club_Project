@@ -1,6 +1,6 @@
  <!DOCTYPE html>
 <html>
- <body style="background-color:powderblue;">
+ <body style="background-color: #3c3d41;">
  <h1>Credit default prediction using lending club data</h1>
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
