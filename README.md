@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
  <body style="background-color: #3c3d41;">
- <h1>Credit default prediction using lending club data</h1>
+ <h1>Credit default prediction using feature engineering and interpretable ML model on lending club data</h1>
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
  <p align="center">
