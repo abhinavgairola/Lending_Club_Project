@@ -41,7 +41,7 @@
   .</li>
  <li><cite><a href="https://maxhalford.github.io/blog/target-encoding/">Target encoding done the right way</a></cite> by Max Halford
   .</li>
- <li><cite><a href="https://christophm.github.io/interpretable-ml-book/shapley.html/">Interpretable Machine Learning:-A Guide for Making Black Box Models Explainable.</a></cite> by Christoph Molnar
+ <li><cite><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning:-A Guide for Making Black Box Models Explainable.</a></cite> by Christoph Molnar
   .</li>
  </ol>
 
