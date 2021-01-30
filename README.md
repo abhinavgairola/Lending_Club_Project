@@ -33,7 +33,7 @@
  <li> <a href="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/Machine_Learning.ipynb">Data cleaning and machine learning</a></li>
  <li> <a href="https://github.com/abhinavgairola/Lending_Club_Project/blob/master/CatBoost.ipynb">Data cleaning and machine learning</a></li>
  <li><a href="https://abhinavgairola.github.io/Report/">Link to the project report</a></li>
- <li><a href "https://github.com/abhinavgairola/Presentation/blob/main/presentations/Lending_club.html">Link to the Webslides (please download the whole package and check the presentations folder)</a></li>
+ <li><a href="https://github.com/abhinavgairola/Presentation">Link to the Webslides (please download the whole package and check the presentations folder)</a></li>
  </ol>
  <p><a href="https://christophm.github.io/interpretable-ml-book/shap.html"> The ML models were interpreted using the SHapley Additive exPlanations(SHAP) values.</a> More can be learned about them by going to the mentioned link.</p>
  <h1>References</h1>
